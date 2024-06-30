@@ -12,7 +12,7 @@ A sleek and modern toggle switch implemented with HTML, CSS, and JavaScript, fea
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/neumorphism-toggle-switch.git
+    git clone https://github.com/BuildsBy-Husain/neumorphism-toggle-switch.git
     ```
 2. Navigate to the project directory:
     ```bash
